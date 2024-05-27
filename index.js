@@ -32,7 +32,7 @@ async function fetchFilesFromPublicFolder(folderId) {
   }
 }
 
-const folderId = 'YOUR_PUBLIC_FOLDER_ID';
+const folderId = '1_iCnZEDJpQEK524YzL3v8RWUtM9sDqge';
 
 fetchFilesFromPublicFolder(folderId).then(files => {
   console.log('Files:', files);
